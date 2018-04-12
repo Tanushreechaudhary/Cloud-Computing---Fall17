@@ -7,4 +7,4 @@ Analyzed Technical & Business aspects of AWS & Azure
 * Created a Stateless WordPress Docker Repository and deployed a cloud application in AWS & Azure.<br/>
 * Set up WordPress blog on EC2 and RDS instances in AWS<br/>
 
-Link to the report: 
+Link to the report: https://github.com/Tanushreechaudhary/Cloud-Computing---Fall17/blob/master/Final_Project_Tchaudhary.pdf
